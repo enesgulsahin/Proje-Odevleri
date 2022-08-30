@@ -1,3 +1,4 @@
+https://app.patika.dev/egulsahin
 # Merge Sort Projesi
 - [16,21,11,8,12,22] Merge Sort'a göre aşamaları
 - [16,21,11] [8,12,22]
